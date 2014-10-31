@@ -1,0 +1,9 @@
+---
+1: !ruby/object:Recruiter
+  Name: tname
+  Email: temail
+  Zip: tzip
+2: !ruby/object:Recruiter
+  Name: yml
+  Email: yml@df.com
+  Zip: '123'
