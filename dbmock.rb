@@ -29,6 +29,7 @@ class Dbmock
     end
   end
 
+  #adding comment for pull request again
   def view_recruiter(recruiter_id)
     if $storage_arg == "MYSQL"
       mysql_get()
